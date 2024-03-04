@@ -1,3 +1,3 @@
 <php
-yawa unsa namai
+yawa OJT
 ?php>
